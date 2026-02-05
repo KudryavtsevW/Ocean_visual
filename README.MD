@@ -21,6 +21,6 @@ Ocean с логами и визуализацией
 sudo apt-get install make
 # Клонирование репозитория
 git clone https://github.com/KudryavtsevW/Ocean_visual.git
-cd ocean
+cd Ocean_visual
 make
 ./program
